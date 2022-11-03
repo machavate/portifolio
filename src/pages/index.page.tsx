@@ -1,4 +1,3 @@
-import styles from '../styles/Home.module.css'
 import { Container } from './styles'
 
 export default function Home() {
